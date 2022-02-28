@@ -1,0 +1,17 @@
+Field,# obs full soil cover,# obs some soil cover,total # soil sample points,prop full soil cover,prop any soil cover,# obs LiBl present,total # LiBl sample points,prop samples w LiBl,# obs BiBl present,total # BiBl sample points,prop samples w BiBl,# obs Ind present,total # Ind sample points ,prop samples w Ind,# obs Swit present,total # Swit sample points,prop samples w Swit,# obs EaGa present,total # EaGa sample points,prop samples w EaGa ,# obs w any of 5 native grasses,total # any of 5 sample points,prop samples w any of 5 grasses,# obs 3M John,total # 3M John sample points ,prop samples w 3M John,# obs Tree present,total # Tree sample points,prop samples w tree,# obs KRBS  present,total # KRBS sample points,prop samples w KRBS,Notes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FM1,10,18,28,,,1,37,0.03,6,37,0.16,27,37,0.73,2,37,0.05,0,37,0.00,29,37,0.78,1,37,0.03,1,37,,17,37,,Noil soil data for transect 4 (wrong radius observed)
+FM2,38,8,46,,,12,46,0.26,3,46,0.07,0,46,0.00,2,46,0.04,0,46,0.00,17,46,0.37,4,46,0.09,15,46,,4,46,,
+FM3,25,15,44,,,2,44,0.05,0,44,0.00,26,44,0.59,6,44,0.14,7,44,0.16,32,44,0.73,2,44,0.05,1,44,,0,44,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CM1,16,21,39,,,0,39,0.00,0,39,0.00,33,39,0.85,0,39,0.00,0,39,0.00,33,39,0.85,0,39,0.00,1,39,,2,28,,No KRBS data for transect 3
+CM2,32,8,43,,,3,43,0.07,0,43,0.00,0,43,0.00,0,43,0.00,2,43,0.05,5,43,0.12,1,43,0.02,1,43,,2,43,,
+CM3,16,7,24,,,5,24,0.21,0,24,0.00,3,24,0.13,2,24,0.08,0,24,0.00,9,24,0.38,4,24,0.17,2,24,,1,24,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FCM1,15,2,21,,,2,29,0.07,0,29,0.00,0,29,0.00,2,29,0.07,0,29,0.00,4,29,0.14,5,29,0.17,0,29,,8,29,,No soil data for transect 4
+FCM2,26,15,44,,,9,44,0.20,1,44,0.02,7,44,0.16,2,44,0.05,0,44,0.00,17,44,0.39,0,44,0.00,6,44,,14,44,,
+FCM3,15,4,25,,,4,31,0.13,0,31,0.00,5,31,0.16,5,31,0.16,2,31,0.06,15,31,0.48,7,31,0.23,9,31,,2,31,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Remnant,15,1,16,,,7,16,0.44,6,16,0.38,0,16,0.00,0,16,0.00,0,16,0.00,11,16,0.69,0,16,0.00,9,16,,0,16,,No data for transect 4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Garnett,32,9,42,,,17,42,0.40,25,42,0.60,15,42,0.36,1,42,0.02,1,42,0.02,37,42,0.88,0,42,0.00,0,42,,0,42,,

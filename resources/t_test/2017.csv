@@ -1,0 +1,13 @@
+Field,# obs full soil cover,# obs some soil cover,total # soil sample points,prop full soil cover,prop any soil cover,# obs LiBl present,total # LiBl sample points,prop samples w LiBl,# obs BiBl present,total # BiBl sample points,prop samples w BiBl,# obs Ind present,total # Ind sample points ,prop samples w Ind,# obs Swit present,total # Swit sample points,prop samples w Swit,# obs EaGa present,total # EaGa sample points,prop samples w EaGa ,# obs w any of 5 native grasses,total # any of 5 sample points,prop samples w any of 5 grasses,# obs 3M John,total # 3M John sample points ,prop samples w 3M John,# obs Tree present,total # Tree sample points,prop samples w tree,# obs KRBS  present,total # KRBS sample points,prop samples w KRBS,Notes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FM1,10,18,28,,,2,43,0.05,5,43,0.12,29,43,0.67,5,43,0.67,1,43,0.02,32,43,0.74,0,43,0.00,1,37,,17,37,,Noil soil data for transect 4 (wrong radius observed)
+FM2,38,8,46,,,8,48,0.17,2,48,0.04,2,48,0.04,0,48,0.04,0,48,0.00,10,48,0.21,0,48,0.00,15,46,,4,46,,
+FM3,25,15,44,,,3,52,0.06,0,52,0.00,26,52,0.50,4,52,0.50,23,52,0.44,41,52,0.79,0,52,0.00,1,44,,0,44,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CM1,16,21,39,,,1,47,0.02,1,47,0.02,39,47,0.83,2,47,0.83,0,47,0.00,39,47,0.83,1,47,0.02,1,39,,2,28,,No KRBS data for transect 3
+CM2,32,8,43,,,3,52,0.06,0,52,0.00,0,52,0.00,2,52,0.00,1,52,0.02,6,52,0.12,2,52,0.04,1,43,,2,43,,
+CM3,16,7,24,,,9,29,0.31,0,29,0.00,5,29,0.17,0,29,0.17,0,29,0.00,11,29,0.38,1,29,0.03,2,24,,1,24,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FCM1,15,2,21,,,3,31,0.10,1,31,0.03,0,31,0.00,2,31,0.00,2,31,0.06,9,31,0.29,2,31,0.06,0,29,,8,29,,No soil data for transect 4
+FCM2,26,15,44,,,5,27,0.19,2,47,0.04,2,47,0.04,0,47,0.04,1,47,0.02,9,47,0.19,0,47,0.00,6,44,,14,44,,
+FCM3,15,4,25,,,5,36,0.14,0,36,0.00,4,36,0.11,1,36,0.11,4,36,0.11,12,36,0.33,4,36,0.11,9,31,,2,31,,
